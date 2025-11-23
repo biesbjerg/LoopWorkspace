@@ -222,7 +222,6 @@ jobs:
           dexcom_upload_readings \
           watch_title \
           meal_days \
-          live_activity \
           negative_insulin
 
       # Patch Fastlane Match to not print tables
